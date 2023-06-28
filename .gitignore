@@ -1,0 +1,7 @@
+.ccls-cache
+.ccls
+cmake_build_Debug
+cmake-build-debug
+cmake_build_Release
+compile_commands.json
+.idea
